@@ -15,7 +15,6 @@ public class SortTheOdd {
                 array[i] = odds[j++];
             }
         }
-        System.out.println(Arrays.toString(array));
         return array;
     }
 }
